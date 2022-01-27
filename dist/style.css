@@ -1,0 +1,40 @@
+#head{
+  color:red;
+  display:block;
+  text-align:center;
+  background-color:black;
+  border-style: solid;
+  
+   }
+#image:hover{
+/*width: 400px;//
+  //height:300px;//
+  border-radius: 50%
+  display: block;*/
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+.center{
+  text-align:center;
+  color:red;
+  
+}
+.font{
+  font-size:20px;
+}
+.peacock{
+  width:400px;
+  height:300px;
+   border: 5px solid ;
+}
+.text{
+  font-size:20px;
+  
+}
+.thanks{
+  font-size:40px;
+}
+.navtag{
+  font-size:25px;
+}
